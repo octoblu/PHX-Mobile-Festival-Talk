@@ -10,7 +10,7 @@ a mobile application and integrate it with IoT using Octoblu.
 1. What is IOT?
   - Examples with videos (Mindwave, Reaper, Simple Flow - Blink 1  Twitter?)
 1. What is Octoblu?
-  1.1 - Everything is a Device
+  1.1 - Intro
   1.2 - Meshblu
   1.3 - Octoblu
   1.4 - Flow engine
